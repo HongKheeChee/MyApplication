@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107028978615",
+    "firebase_url": "https://blog-58660-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blog-58660",
+    "storage_bucket": "blog-58660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107028978615:android:71ab014555e643a8702632",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107028978615-22hvvoptb94b2o21o2hkjv6qntge6ssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8xfqVCh2dd8mJ8Ut24gKHddD8Jpeuzfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107028978615-22hvvoptb94b2o21o2hkjv6qntge6ssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
